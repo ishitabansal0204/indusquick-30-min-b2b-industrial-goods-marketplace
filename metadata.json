@@ -1,0 +1,8 @@
+{
+  "name": "IndusQuick - 30-Min B2B Industrial Goods Marketplace",
+  "description": "Enterprise-grade B2B industrial supplies and workshop essentials delivered to your job site or factory in 30 minutes with GST invoicing and bulk pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
