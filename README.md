@@ -1,5 +1,7 @@
 # IndusQuick: 30-Minute B2B Industrial Goods Marketplace
 
+Prototype Link : https://indusquick-30-min-b2b-industrial-goods-marketplac.ai.studio/
+
 > **"Industrial essentials. At your job site in 30 minutes."**
 
 IndusQuick is a high-fidelity frontend prototype of a hyper-local B2B quick-commerce marketplace designed specifically for Indian industrial corridors, manufacturing plants, civil construction sites, and fabrication workshops.
